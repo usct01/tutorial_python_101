@@ -1,0 +1,100 @@
+Student_ID,Gender,Branch,Education,1st Semester (%),2nd Semester (%),3rd Semester (%)
+10900,male,Information Technology,bachelor's degree,79,74,72
+10901,male,Information Technology,bachelor's degree,77,67,68
+10902,female,Computer Science,bachelor's degree,55,58,60
+10903,female,Computer Science,bachelor's degree,75,85,82
+10904,female,Computer Science,bachelor's degree,65,72,74
+10905,female,Electonics,bachelor's degree,78,82,79
+10906,female,Electonics,bachelor's degree,51,49,51
+10907,male,Information Technology,bachelor's degree,54,49,47
+10908,female,Computer Science,bachelor's degree,68,75,81
+10909,male,Information Technology,bachelor's degree,74,79,75
+10910,male,Electonics,bachelor's degree,58,55,48
+10911,female,Electonics,bachelor's degree,79,80,89
+10912,male,Electonics,bachelor's degree,68,74,74
+10913,female,Computer Science,bachelor's degree,65,67,62
+10914,male,Information Technology,bachelor's degree,80,78,81
+10915,female,Electonics,bachelor's degree,67,69,75
+10916,male,Civil,bachelor's degree,74,71,80
+10917,female,Information Technology,bachelor's degree,72,72,74
+10918,female,Civil,bachelor's degree,60,65,63
+10919,female,Civil,bachelor's degree,43,51,54
+10920,female,Information Technology,bachelor's degree,77,88,87
+10921,female,Electonics,bachelor's degree,78,79,76
+10922,male,Computer Science,bachelor's degree,82,62,62
+10923,female,Computer Science,bachelor's degree,67,86,83
+10924,male,Information Technology,bachelor's degree,83,82,84
+10925,male,Electonics,bachelor's degree,63,66,67
+10926,female,Civil,bachelor's degree,80,83,83
+10927,female,Computer Science,bachelor's degree,63,75,81
+10928,male,Information Technology,bachelor's degree,69,63,61
+10929,male,Information Technology,bachelor's degree,83,78,73
+10930,male,Electonics,bachelor's degree,73,56,57
+10931,female,Civil,bachelor's degree,73,79,84
+10932,male,Electonics,bachelor's degree,88,75,76
+10933,female,Electonics,bachelor's degree,65,73,75
+10934,male,Computer Science,bachelor's degree,66,60,57
+10935,male,Information Technology,bachelor's degree,67,61,68
+10936,female,Computer Science,bachelor's degree,59,64,75
+10937,male,Information Technology,bachelor's degree,63,71,69
+10938,female,Information Technology,bachelor's degree,83,86,88
+10939,female,Civil,bachelor's degree,77,80,80
+10940,female,Computer Science,bachelor's degree,52,65,69
+10941,female,Information Technology,bachelor's degree,61,72,70
+10942,male,Information Technology,bachelor's degree,49,58,60
+10943,male,Electonics,bachelor's degree,61,66,61
+10944,female,Civil,bachelor's degree,59,70,73
+10945,male,Information Technology,bachelor's degree,66,64,62
+10946,female,Electonics,bachelor's degree,64,73,70
+10947,female,Civil,bachelor's degree,51,72,79
+10948,male,Computer Science,bachelor's degree,71,74,68
+10949,male,Information Technology,bachelor's degree,86,83,86
+10950,male,Electonics,bachelor's degree,37,56,47
+10951,female,Civil,bachelor's degree,79,89,89
+10952,female,Electonics,bachelor's degree,70,68,65
+10953,male,Information Technology,bachelor's degree,53,58,55
+10954,male,Civil,bachelor's degree,75,58,62
+10955,female,Electonics,bachelor's degree,71,76,83
+10956,male,Information Technology,bachelor's degree,76,62,66
+10957,female,Civil,bachelor's degree,81,88,85
+10958,male,Information Technology,bachelor's degree,55,59,54
+10959,female,Civil,bachelor's degree,86,88,87
+10960,male,Information Technology,bachelor's degree,69,58,57
+10961,female,Electonics,bachelor's degree,29,41,47
+10962,female,Computer Science,bachelor's degree,66,83,83
+10963,male,Civil,bachelor's degree,85,66,71
+10964,male,Civil,bachelor's degree,87,84,88
+20100,female,Electonics,master's degree,87,83,85
+20101,female,Computer Science,master's degree,56,72,65
+20102,female,Information Technology,master's degree,62,68,68
+20103,male,Civil,master's degree,46,42,46
+20104,male,Computer Science,master's degree,89,84,82
+20105,male,Civil,master's degree,82,82,74
+20106,female,Information Technology,master's degree,62,70,75
+20107,male,Electonics,master's degree,73,74,72
+20108,female,Electonics,master's degree,50,53,58
+20109,female,Computer Science,master's degree,86,85,83
+20110,male,Information Technology,master's degree,49,53,52
+20111,female,Computer Science,master's degree,81,80,82
+20112,female,Electonics,master's degree,58,76,78
+20113,female,Computer Science,master's degree,81,85,87
+20114,female,Electonics,master's degree,52,70,62
+20115,male,Computer Science,master's degree,62,68,75
+20116,female,Civil,master's degree,69,84,85
+20117,female,Information Technology,master's degree,45,56,54
+20118,male,Electonics,master's degree,80,80,72
+20119,female,Electonics,master's degree,65,81,81
+20120,female,Electonics,master's degree,77,82,75
+20121,female,Electonics,master's degree,85,85,80
+20122,male,Civil,master's degree,79,81,71
+20123,male,Information Technology,master's degree,73,70,75
+20124,female,Information Technology,master's degree,70,71,74
+20125,female,Information Technology,master's degree,47,58,67
+20126,female,Information Technology,master's degree,55,64,70
+20127,female,Computer Science,master's degree,74,79,82
+20128,female,Information Technology,master's degree,40,59,54
+20129,male,Electonics,master's degree,79,78,77
+20130,female,Electonics,master's degree,77,77,82
+20131,male,Civil,master's degree,54,59,50
+20132,female,Computer Science,master's degree,64,63,66
+20133,male,Civil,master's degree,79,72,69
